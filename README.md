@@ -1,2 +1,0 @@
-# TestingHopSpot
-Testing HopSpot
